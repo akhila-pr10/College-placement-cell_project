@@ -18,7 +18,7 @@ Placo is a web application designed to streamline the college placement process 
 
 - **Operating System:** Windows 7 or above
 - **Web Server:** XAMPP
-- **Programming Languages:** PHP, CSS, JavaScript
+- **Programming Languages:** PHP, HTML, CSS, JavaScript
 - **Web Browsers:** Google Chrome, Mozilla Firefox, Internet Explorer
 - **Database:** MySQL
 - **Code Editor:** Visual Studio Code
