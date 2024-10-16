@@ -1,4 +1,4 @@
-# College-placement-cell_project
+# PLACO:Website for College-placement-cell
 
 # Placo - College Placement Cell Managing Web application
 
